@@ -14,7 +14,7 @@ I'm a 👩🏻‍💻 &nbsp;**Frontend** Developer (🎨 &nbsp;**Devsigner** var
 - **Past:** Web Components, LitElement, Polymer, Ember addons, Mocha, Chai.js, Karma.
 - **From time to time** (or less): Node (CLI tools), bundlers & friends (Rollup, Broccoli, Webpack), AST tools (Babel, PostCSS, JSCodeshift).
 
-### Interested and focused on
+### Focused on
 
 - **Quality**: clean code, pixel perfect (design matters!), best practices, testing, DevOps mindset.
 - **Developer Experience**: automatization, tooling and everything that makes us happier and our software better.
