@@ -1,11 +1,11 @@
-# @kcmr (Kus Cámara)
+# Kus Cámara (@kcmr)
 
-## About me
+**Frontend Engineer** specializing in **DX**, **Tooling**, and **Web Accessibility**.
 
-I'm a 👩🏻‍💻 &nbsp;**Frontend** Developer (🎨 &nbsp;**Devsigner** variant or [front-of-the-front-end](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)) but also a **tooling** lover (🛠&nbsp; “please, automate all the things”).
+- 🛠️ Focused on building internal tools and optimizing development workflows.
+- 🤖 Experimenting with QA automation and AI Agents.
+- 🤝 Open to **freelance** collaborations in the near future.
 
-### Working with
-
-- **Present:** React, TypeScript, Styled Components, Testing Library, Jest, Storybook.
-- **Past:** Web Components, LitElement, Polymer, Ember addons, Mocha, Chai.js, Karma.
-- **From time to time** (or less): Node (CLI tools), bundlers & friends (Rollup, Broccoli, Webpack), AST tools (Babel, PostCSS, JSCodeshift).
+### Contact
+🌐 [kuscamara.dev](https://kuscamara.dev)  
+🔗 [LinkedIn](https://linkedin.com/in/kuscamara)
