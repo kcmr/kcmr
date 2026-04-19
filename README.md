@@ -4,7 +4,6 @@
 
 - 🛠️ Focused on building internal tools and optimizing development workflows.
 - 🤖 Experimenting with QA automation and AI Agents.
-- 🤝 Open to **freelance** collaborations.
 
 ### Contact
 🌐 [kuscamara.dev](https://kuscamara.dev)  
